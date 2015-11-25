@@ -1,24 +1,38 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
 
-# Permalinks
-permalink:        pretty
+# Basic
+name:               "Pranav Krishnan"
 
-# Setup
-title:            Pranav Krishnan
-tagline:          'Blogging about stuff.'
-description:      'Home to life rants, reviews, computer science, and everything but the kitchen sink.'
-url:              http://nostack.github.io
+# URL
+baseurl:            ""
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
 
-author:
-  name:           'Pranav Krishnan'
-  url:            
+# Markdown
+markdown:           rdiscount
 
-paginate:         5
+# Navigation
+nav:
+  - name:           "About"
+    href:           "//nostack.github.io/about"
 
-# Custom vars
-version:          2.0.0
+# Sass
+sass:
+  style:            :compressed
 
-github:
-  repo:           https://github.com/nostack/nostack.github.io
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"

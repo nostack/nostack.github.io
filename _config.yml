@@ -1,55 +1,24 @@
-# Site Info
-title:              "Pranav Krishnan"
-description:        "Blogging about eveything."
-google_verify:      # Put your Google Verification here
-google_analytics:   # Put your Google Analytics code
+# Dependencies
+markdown:         redcarpet
+pygments:         true
 
-# Author Info
-author_name:        "Pranav Krishnan"
-author_email:       pranavvulcan@gmail.com
-author_gravatar:    31205cb7f5ff44b6dc2e9e7df1c46513 # Gravatar md5 hash
-twitter_username:
+# Permalinks
+permalink:        pretty
 
-# Site Settings
-baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
-permalink:          /notes/:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# Setup
+title:            Pranav Krishnan
+tagline:          'Blogging about stuff.'
+description:      'Home to life rants, reviews, computer science, and everything but the kitchen sink.'
+url:              http://nostack.github.io
 
-# Site Build
-highlighter:        pygments
-#markdown:           redcarpet
-#redcarpet:
-#    extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
-markdown:           kramdown
-kramdown:
-    input:          GFM
-sass:
-    style:          :compressed
+author:
+  name:           'Pranav Krishnan'
+  url:            
 
-# Other Params
-include:            [ "robots.txt" ]
-exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
-gems:
-  - jekyll-sitemap
+paginate:         5
 
-compress_html:
-    clippings:      all
-    ingore:
-        envs:       [ "test" ]
+# Custom vars
+version:          2.0.0
 
-defaults:
-  -
-    scope:
-      path:         ""
-    values:
-      layout:       "null"
-  -
-    scope:
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      type:         "posts"
-    values:
-      layout:       "post"
+github:
+  repo:           https://github.com/nostack/nostack.github.io

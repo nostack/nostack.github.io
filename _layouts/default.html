@@ -1,31 +1,30 @@
----
-layout: compress
----
-
 <!DOCTYPE html>
-<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
-	<head>
-		{% include head.html %}
-	</head>
+  {% include head.html %}
 
-	<body>
+  <body>
 
-		{% include header.html %}
+    {% include sidebar.html %}
 
-		<main>
-			{{ content | replace: '&#8617;', '&#8617;&#xfe0e;' }}
-		</main>
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-		{% if page.path contains '_posts' %}
+          <h3 class="masthead-title">
+            <a href="/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+      </div>
 
-			{% if content contains 'reversefootnote' %}
-				<aside class="note"></aside>
-				<script async src="{{site.baseurl}}/assets/footnotes.js"></script>
-			{% endif %}
+      <div class="container content">
+        {{ content }}
+      </div>
+    </div>
 
-		{% endif %}
-
-	</body>
-
+  </body>
 </html>

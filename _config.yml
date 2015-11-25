@@ -16,7 +16,7 @@ markdown:           rdiscount
 # Navigation
 nav:
   - name:           "About"
-    href:           "//nostack.github.io/about"
+    href:           "/about"
 
 # Sass
 sass:

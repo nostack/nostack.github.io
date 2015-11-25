@@ -289,7 +289,7 @@ a.sidebar-nav-item:focus {
 }
 
 #sidebar-checkbox:checked + .sidebar {
-  left: 0;
+  left: 14rem;
   visibility: visible;
 }
 #sidebar-checkbox:checked ~ .wrap {
@@ -428,13 +428,14 @@ a.pagination-item:hover {
 }
 .layout-reverse .sidebar-toggle {
   left: auto;
-  right: 1rem;
+  right: 15.5rem;
 }
 
 .layout-reverse #sidebar-checkbox:checked + .sidebar {
   left: auto;
   right: 0;
 }
+
 .layout-reverse #sidebar-checkbox:checked ~ .wrap {
   left: auto;
   right: 14rem;

@@ -428,7 +428,11 @@ a.pagination-item:hover {
 }
 .layout-reverse .sidebar-toggle {
   left: auto;
-  right: 15.5rem;
+  right: 1rem;
+}
+.layout-reverse #sidebar-checkbox:checked + .sidebar-toggle {
+    left: auto;
+    right: 14rem;
 }
 
 .layout-reverse #sidebar-checkbox:checked + .sidebar {
@@ -436,7 +440,7 @@ a.pagination-item:hover {
   right: 0;
 }
 
-.layout-reverse #sidebar-checkbox:checked ~ .wrap {
+.layout-reverse #sidebar-checkbox:checked ~ .wrap  {
   left: auto;
   right: 14rem;
 }

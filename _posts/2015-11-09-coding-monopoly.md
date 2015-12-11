@@ -11,4 +11,6 @@ I started to learn Java, and found that the syntax was surprisingly similar, and
 
 This is the place where I got an idea, a wonderful idea (in my opinion). I figured that it would be fun for him and I to code the program seperately, the same one, and then reconvene and see how each one did it, and how differently. So I started programming, using a seperate class for the people in the game, and within that having methods for a turn, such as rolling a dice and buying/selling properties, etc. This is where I ran into my first problem, how to actually store all the information of the spaces, or each property/airport/wildcard etc. Do I use a text file to import my data from, use arrays, how? I am yet to find a solution to this problem, and I probably will, but for now the project is on a full stop until I get through this week of school, as I have tests upon tests, mid term practicals and quizzes, etc.
 
+Update Number 1: I have decided to put my monopoly project on hold while I put time aside to learn andoid dev. I am also overwhelmed with school at the moment, so I don't have much time for any extra activities. Sorry :-(
+
 I'll keep you guys or gals, updated on both my solution, as well as future problems and interesting endevours I have. Until then, sayonara!

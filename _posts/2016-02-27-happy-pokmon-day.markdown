@@ -1,0 +1,13 @@
+---
+title: Happy Pokémon Day!
+date: 2016-02-27T10:29:10-05:00
+---
+Today is a very special day for a lot of people. It is February 27, 2016, exactly 20 years since the original release of the first Pokemon game. It is a very special day for me, as I grew up playing a lot of Ruby, Sapphire and Emerald, and I couldn't get enough of it. Even today, I find myself choosing to play my 3DS over perhaps playing CS:GO on my laptop. Currently, I just finished a run of Omega Ruby, which as you can tell by the title, is a remake of the original Ruby made 10 years ago if I remember correctly.
+
+I first played Ruby when I was 7, and I couldn't stop playing it. I used to hide my Gameboy Advance under my pillow and secretly play under my blanket. I used to feel like such a rebel, doing things my parents told me not to. *Sighs*, those were the days. I vividly remember going into a flea market, looking for Pokemon Emerald, as I really wanted to play it, but it wasn't sold anymore. I bought it for something like 2$, and it probably sells for a whole lot more nowadays. Additionally, I remember always wanting to get a DS, dreaming about the day when I would get one. Unfortunately, I never had the pleasure of getting a DS, and only got a 3DS for my 15th birthday.
+
+So lets fast forward a few years. Here I am, typing this post, anxiously waiting while being hyped as hell for the new upcoming Pokemon games in the holiday of 2016. These were announced yesterday, in the Pokemon Direct that was held by Junichi Masuda, the CEO of Pokemon. The main other thing that was announced was that the original games, Pokemon Red, Blue, and Yellow are being released on the Nintendo E-Shop for the 3DS. They retail at $12.49 CAD, which is actually much cheaper than I imagined it to be. I'll end up getting those games within the next week or so, and seeing that I have never played those games, I'm pretty darn excited.
+
+Currently, I'm playing through X and Y once more, but with a twist. I'm doing something called a Nuzlocke challenge, and if you do not know what that is, it's basically a more challenging version of the regular game. There are 3 rules, and they are that you may only catch the first Pokemon in each route, fainted Pokemon are treated as dead, and you must nickname every Pokemon you get. What ends up happening is that you must be extremely careful with how you play, as a "white-out" is considered as a game over.
+
+I hope that at least some of you are as pumped as me for the upcoming Pokemon Sun and Moon games, and I seriously hope they come the sooner part of the holiday. That's it for today, until our next encounter (see what I did there?) - ciao!

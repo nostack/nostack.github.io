@@ -17,6 +17,8 @@ markdown:           rdiscount
 nav:
   - name:           "About"
     href:           "/about"
+  - name:           "Audio"
+    href:           "/audio"
 
 # Sass
 sass:

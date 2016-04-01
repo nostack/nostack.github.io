@@ -1,0 +1,17 @@
+---
+title: The Best Designed Game of All Time
+date: 2016-04-01T11:52:09-04:00
+---
+Less than 24 hours ago, I finished what is in my opinion, the best designed game of all time. This game is Witcher 3. I've been working on finishing it since perhaps the end of December, and the sheer amount of detail and story put into it is amazing. I loved every second of the game, and I couldn't stop playing it. In fact, the ending was so beautiful that I ended up crying. So why exactly is it such a breathtaking game? It's a breathtaking game because of many factors, such as the immense amount of work put it to focus even on the smallest things, the beauty in the graphics, and lastly the mechanics of the game.
+
+Let's start off with the work put in on the game. The game itself is said to provide a minimum of 50 hours on a quick run, but if one takes the time to explore everything it's closer to 200. In addition to this, CD Projekt Red (the creator of the game), focused on the smallest things, such as the signs the main character made when casting spells. Usually, if the game was played normally, in third person view, it would be impossible to actually see the signs that Geralt, the hero, makes with his fingers. However, if console commands are used to zoom in on the hands, the symbols can be seen. Just the fact that CDPR spent the time to program things that wouldn't even be possible in the regular game shows the amount of work they put in. If this wasn't enough, they also spent time on making a 100+ different character endings for characters (that is for side characters), completely based on the choices you make in the game. Although there are 3 main character endings, this is the first time a RPG has made a world where the main character's choices actually affects the prices of items in the world, how people act towards you, etc.
+
+Let's move on to the beauty of the graphics, which are stunning. If my word isn't enough, look at the picture below:
+
+![Sunset](../../../images/witcher3screenie.jpg)
+
+Tell me, can you tell that it's a screenshot of a game? The combination of shaders and the detail of the actual environment make it such a breathtaking experience to play the game. In addition to this, just the simple details that were added to the game, like the armor you equipped during the game is shown in the cutscenes, something that never really happens in any other RPG. Having been a person who played Skyrim as his first real open world RPG, the Witcher 3 was a completely different take on this matter. Skyrim graphics were beautiful, at least for it's time, but the Witcher 3 is officially the best RPG ever made, and the awards it has won proves that.
+
+The mechanics of the game probably even top the graphics. The combat system is so intricate that it's actually hard to pick up. On harder difficulties, regenerating health practically relies solely on potions and food. For the first time in a game, food actually serves a purpose, not just cosmetics. Speaking of cosmetics, CD Projekt Red did a great job with this as well. As you progress through the game, the main character slowly ages, and his beard grows due to this. This is something that never had been done before, and had only been done in Skyrim through the use of mods.
+
+In the end, this game was an absolute joy to play through, and I'm currently in the process of playing through it again. That's it for this post (don't worry the audio will be out soon). Until next time - ciao!

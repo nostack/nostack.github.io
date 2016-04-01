@@ -5,6 +5,12 @@ permalink: /audio/
 
 Hey people! Here you can find an audio version of all my posts. Enjoy!
 
+###Best Designed Game of All Time
+<audio controls>
+  <source src="../audiofiles/Witcher 3.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
 ###Happy Pokemon Day
 <audio controls>
   <source src="../audiofiles/Pokemon Day.wav" type="audio/wav">

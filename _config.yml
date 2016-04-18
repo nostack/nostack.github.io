@@ -19,6 +19,8 @@ nav:
     href:           "/about"
   - name:           "Audio"
     href:           "/audio"
+  - name:           "Archives"
+    href:           "/archives"
 
 # Sass
 sass:

@@ -32,7 +32,6 @@ body {
 }
 
 a {
-  color: #268bd2;
   text-decoration: none;
 
   &:hover,
@@ -366,9 +365,37 @@ tbody tr:nth-child(odd) th {
     text-transform: uppercase;
   }
   &-post-content {
-      margin-bottom: 3rem;
+      margin-bottom: 1rem;
       font-size: 1rem;
+      a {
+        color: #268bd2;
+      }
   }
+  &-post-button {
+      margin-bottom: 1rem;
+      margin-left: 31rem;
+      font-size: 0.51rem;
+      border-radius: 15px;
+      padding: 10px 10px 10px 10px;
+      display: block;
+      font-weight: bold;
+      text-decoration: none;
+      text-shadow:0px 1px 0px #fff;
+      border:1px solid #7e7e7e;
+      width: 90px;
+      -webkit-transition:box-shadow 0.5s;
+      float: right;
+      margin-top: 2px;
+      background:-webkit-linear-gradient(top, #ffffff 0%,#ffffff 100%);
+      a {
+          color: #4d4d4d;
+      }
+      :hover{
+          text-decoration: none;
+          color:#4d4d4d;
+      }
+      float: right;
+      }
 }
 
 .projects-list {

@@ -1,5 +1,6 @@
 ---
 title: Assassin's Creed: A Game with Potential
+layout: post
 date: 2016-06-01T09:31:47-04:00
 ---
 Today, one of the most popular game franchises is the Assassin's Creed franchise. A new game is released nearly every single year, and although Ubisoft has hit a few bumps in the road which nearly ruined their franchise, I still believe the entire concept of the game was a genius one. I recently just finished playing the original Assassin's Creed, and I am currently playing through the second one. First of all, the concept behind the first game was a genius one, and it had such great potential. However, this is not to say that it was executed properly, as it clearly wasn't in the game. Before I go into the nitty gritty, be wary of minor spoilers as there might happen to be a few in this review, but I'll try my best to stray from them. The story is basically based on one thing - the fact that there is a thousand year old war that takes place between two races - the templars and the assassins.

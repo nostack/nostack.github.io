@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Github Pages and Blogging
 date: 2016-04-22T08:59:04-04:00
 ---
